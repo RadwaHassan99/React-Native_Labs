@@ -17,7 +17,7 @@ const Contact = () => {
       title: "B",
       data: [
         { id: "3", text: "Bassant", img: require("../../assets/avatar2.png") },
-        { id: "4", text: "Belal", img: require("../../assets/avatar2.png") },
+        { id: "4", text: "Belal", img: require("../../assets/avatar1.png") },
       ],
     },
     {
@@ -33,7 +33,7 @@ const Contact = () => {
       title: "D",
       data: [
         { id: "7", text: "Doha", img: require("../../assets/avatar2.png") },
-        { id: "8", text: "Daly", img: require("../../assets/user.png") },
+        { id: "8", text: "Dany", img: require("../../assets/user.png") },
       ],
     },
     {
